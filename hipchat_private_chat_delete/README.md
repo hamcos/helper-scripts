@@ -67,6 +67,16 @@ WARNING: Deleting messages …
 
 The messages are unsorted. This is the default when using the Elasticsearch scan and bulk APIs. It should be enough to verify that you are deleting the correct messages.
 
+## Source code
+
+The latest version of the script together with documentation can be found on https://github.com/hamcos/helper-scripts.
+
+## Authors
+
+Autor                                      | Contact                     | Note
+-------------                              | -------------               | -------------
+[Robin Schneider](https://github.com/ypid) | <robin.schneider@hamcos.de> | Initial coding and design, current maintainer.
+
 ## License
 
 [BSD 2-clause "Simplified" License](/COPYING.BSD)

@@ -79,4 +79,4 @@ Autor                                      | Contact                     | Note
 
 ## License
 
-[BSD 2-clause "Simplified" License](/COPYING.BSD)
+[BSD 2-clause "Simplified" License](https://spdx.org/licenses/BSD-2-Clause.html)

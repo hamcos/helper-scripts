@@ -308,7 +308,7 @@ if __name__ == '__main__':
     es = Elasticsearch()
     r = Redis()
 
-    if hc_deleter.fetch_messages_to_delete(es, r,) == 0:
+    if hc_deleter.fetch_messages_to_delete(es, r) == 0:
         print("No messages to delete.")
         sys.exit(0)
 

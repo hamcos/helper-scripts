@@ -69,7 +69,7 @@ The messages are unsorted. This is the default when using the Elasticsearch scan
 
 ## Source code
 
-The latest version of the script together with documentation can be found on https://github.com/hamcos/helper-scripts.
+The latest version of the script together with documentation can be found on https://github.com/hamcos/helper-scripts/tree/master/hipchat_private_chat_delete
 
 ## Authors
 

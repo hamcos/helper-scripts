@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # Copyright (C) 2016 Robin Schneider <robin.schneider@hamcos.de>
-# hamcos IT Service GmbH http://www.hamcos.de
+# Copyright (C) 2016 hamcos IT Service GmbH http://www.hamcos.de
 #
 # All rights reserved.
 #

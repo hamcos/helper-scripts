@@ -67,8 +67,8 @@ Function LogWrite
    $sLogName = "run-ssh-command.log"
    $sLogFile = Join-Path -Path $sLogPath -ChildPath $sLogName
 
-   $date_iso_8601 = Get-Date -format "yyyy-MM-dd HH:mm:ss"
-   Add-content $sLogFile -value ("{0}: {1}" -f $date_iso_8601, $logstring)
+   $timestamp_rfc3339 = Get-Date -format "yyyy-MM-dd HH:mm:ss"
+   Add-content $sLogFile -value ("{0}: {1}" -f $timestamp_rfc3339, $logstring)
 }
 
 # Initializations {{{1

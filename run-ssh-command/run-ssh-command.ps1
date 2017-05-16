@@ -13,18 +13,15 @@
 .PARAMETER Command
     Required. The command to run on the remote host.
 .PARAMETER Credential
-    Optional. Allows to pass an already existing objected credential object.
+    Optional. Allows to pass an already existing credential object.
 .INPUTS
     None
 .OUTPUTS
     Logs
 .NOTES
-    @author Robin Schneider <robin.schneider@hamcos.de>
-    @company hamcos IT Service GmbH https://www.hamcos.de
+    @author Copyright (C) 2017 Robin Schneider <robin.schneider@hamcos.de>
+    @company Copyright (C) 2017 hamcos IT Service GmbH https://www.hamcos.de
     @license AGPLv3 <https://www.gnu.org/licenses/agpl-3.0.html>
-
-    Copyright (C) 2017 Robin Schneider <robin.schneider@hamcos.de>
-    Copyright (C) 2017 hamcos IT Service GmbH https://www.hamcos.de
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as
